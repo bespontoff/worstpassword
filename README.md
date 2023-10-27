@@ -4,7 +4,7 @@
 
 ##### Installation:
 
-`pip isntall worstpassword`
+`pip install worstpassword`
 
 ##### Usage:
 
