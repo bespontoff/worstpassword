@@ -2,6 +2,15 @@
 
 ## Generating a worst passwords.
 
-options:
+##### Installation:
+
+`pip isntall worstpassword`
+
+##### Usage:
+
+`worstpassword`
+
+###### options:
+
   `-l LENGTH, --length LENGTH`
-                        Length of password. **Default: 8**
+                        Length of password. **Default: 10**
