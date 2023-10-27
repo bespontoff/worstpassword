@@ -1,2 +1,5 @@
 venv
 dist
+.idea
+poetry.lock
+pyproject.toml
